@@ -1,5 +1,6 @@
-# sia-ha
-SIA alarm systems integration into Home Assistant
+# sia-server
+SIA alarm systems server
+- Not started, just copied from sia-ha for now -
 Based on https://github.com/bitblaster/alarmreceiver
 
 ## WARNING
